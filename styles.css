@@ -3,6 +3,8 @@ html,body{
 }
 
 #personalphoto{
-    height: 200px;
-    width: 400px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
 }
